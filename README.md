@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaideep-io
-- 👀 I’m interested in c++,DSA,Algorithms and front-end web dev
-- 🌱 I’m currently learning DSA and front-end web dev.
+- 👀 I’m interested in c++,DSA,Algorithms and full Stack web dev
+- 🌱 I’m currently learning DSA and  web dev.
 - 💞️ I’m looking to collaborate on students with same interests
 - 🎯 focus is on making some cool programming projects(begginer -level)
 - 📫 contact me via my email(2000jnvhurdajaideep@gmail.com)
